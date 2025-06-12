@@ -1,16 +1,29 @@
 # blog_app
 
 A new Flutter project.
+# 📝 Flutter Blogging App
 
-## Getting Started
+A modern, scalable **Blogging App** built with **Flutter**, **Dart**, and **Clean Architecture**, powered by **Supabase** as the backend.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 User Authentication (Sign Up, Login)
+- ✍️ Create and Read Blog Posts
+- 📚 View Blog Feed with post details
+- ⚡ Realtime blog updates via Supabase
+- 🧠 Clean Architecture (Presentation, Domain, Data Layers)
+- 🎨 Responsive & Clean UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧱 Tech Stack
+
+| Layer         | Technology        |
+|---------------|-------------------|
+| UI            | Flutter + Dart    |
+| State Mgmt    | Bloc / Cubit      |
+| Backend       | Supabase          |
+| Database      | Supabase (PostgreSQL) |
+| Architecture  | Clean Architecture |
